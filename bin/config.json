@@ -1,0 +1,9 @@
+{
+    "serverAddress": "lk.pool.ntp.org",
+    "serverPort": 123,
+    "timeZone": "Asia/Colombo",
+    
+    "retryAttempt": 3,
+
+    "devicePort": "/dev/ttyACM0"
+}
